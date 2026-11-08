@@ -13,3 +13,7 @@ Natureza do projeto: protótipo conceitual desenvolvido com dados sintéticos, d
 
 Responsável: Jeferson Pereira de Oliveira
 Área: Análise de Dados e Business Intelligence
+
+Visite também meu perfil no LinkedIn 
+
+https://www.linkedin.com/in/jeferson-pereira-de-oliveira-pcd-ba19b1238
